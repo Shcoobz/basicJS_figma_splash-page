@@ -1,6 +1,6 @@
 # basicJS_Figma_Splash Page: [LIVE DEMO](https://shcoobz.github.io/basicJS_figma_splash-page/)
 
-![basicJS_Splash Page](img/basicJS_figma_splash-page.png)
+![basicJS_Figma_Splash Page](img/basicJS_figma_splash-page.png)
 
 ## Summary
 
