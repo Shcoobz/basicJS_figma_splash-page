@@ -39,3 +39,5 @@ The page design was developed based on high-fidelity mockups created in Figma, e
 ---
 
 _Note: This document provides an overview of basicJS_Splash Page. For detailed instructions and more information, please refer to the source code documentation._
+
+_This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/react_figma_splash-page). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability._
